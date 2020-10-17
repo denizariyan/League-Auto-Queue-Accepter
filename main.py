@@ -20,7 +20,5 @@ w, h = template.shape[::-1]
 
 for pt in zip(*location[::-1]):
     cv2.rectangle(image, pt, (pt[0] + w, pt[1] + h), (0, 255, 0), 3)
-# cv2.imshow("image", image)
 
 pyautogui.click(location[1][0], location[0][0])
-# cv2.imshow("result", result)
