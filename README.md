@@ -1,4 +1,4 @@
-# Automatic League Queue Acceptor
+# Automatic League Queue Accepter
 
 A Python script utilizing OpenCV with template matching to accept a league game while AFK. In other words, just clicks to accept button when it pops up so you dont have to sit in front of the computer.
 
