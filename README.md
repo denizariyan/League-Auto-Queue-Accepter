@@ -9,6 +9,10 @@ After queuing up for a game, launch the script. The console window will pop up w
 ## Running with a language other than Turkish
 
 If you have league running on a language other than Turkish just take a screenshot of the accept text as I did and replace it with the [template](template.png) file.
+
+## Disclaimer
+
+I take no resposibility if anything happens to your account while using this software. Riot's perspective about these kind of software is really vague, according to Riot anything that gives the player an unfair advantage over another is bannable. While currently no one reported such thing, use at your own risk knowing that you can be permanently banned one day if Riot that decide this is an unfair advantage.
  
 ## License
 Copyright (c) 2020 Deniz Ariyan
